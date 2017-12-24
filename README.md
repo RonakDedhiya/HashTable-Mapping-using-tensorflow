@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Hashtable Mapping Using Tensorflow
 
-You can use the [editor on GitHub](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Problem Statement:- I have a dataset where I need to map two columns( Error_code and Criteria) i.e
+for a specific error code I must get a Criteria Value.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ Tools:- Python 3.6, Tensorflow 1.4
 
-### Markdown
+ Implementation:-
+ HashTable Mapping can be implemented in two ways:-
+ 1. Creating Direct Hash-Table with Error_code as keys and Criteria as values
+ 2. Creating one table with index as keys and Error_code as values. Similarly
+      another table with index as keys and Criteria as values. Then using one
+      session to get index of given Error_code and then mapping this index
+      to get Criteria in another session.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  Why to go for second approach?
+  - Sometime its not possible to direct Mapping
+  - Data related may not have simple relation (x==y ) type of Mapping
 
-```markdown
-Syntax highlighted code block
+  Approach 1 :- Can refer to [HashTable_Direct Method](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/HashTable_Direct%20Method
+  Approach 2 :- Can refer to [Predict_map_tensorflow](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/Predict_map_tensorflow)
+  and [Train_map_tensorflow](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/Train_map_tensorflow)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Both approach include proper readme guide. Please refer for any query
