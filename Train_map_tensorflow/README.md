@@ -20,4 +20,4 @@ loading it.
 
 This is a tutorial to create hashtable and saving the session.The code is explained in detail with comments in Train_map_setup.py File
 
-There is another code  to load session and use it directly.(https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/Predict_map_tensorflow)
+There is another code  to load session and use it directly. (https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/Predict_map_tensorflow)
