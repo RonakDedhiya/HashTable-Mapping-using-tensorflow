@@ -17,7 +17,7 @@ for a specific error code I must get a Criteria Value.
   - Sometime its not possible to direct Mapping
   - Data related may not have simple relation (x==y ) type of Mapping
 
-  Approach 1 :- Can refer to [HashTable_Direct Method](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/HashTable_Direct%20Method
+  Approach 1 :- Can refer to [HashTable_Direct Method](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/HashTable_Direct%20Method)
   Approach 2 :- Can refer to [Predict_map_tensorflow](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/Predict_map_tensorflow)
   and [Train_map_tensorflow](https://github.com/RonakDedhiya/HashTable-Mapping-using-tensorflow/tree/master/Train_map_tensorflow)
 
