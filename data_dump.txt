@@ -1,0 +1,2670 @@
+top - 09:54:22 up  3:59,  2 users,  load average: 0.42, 0.57, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   299004 free,   303960 used,   342556 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567972 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26821 root      20   0    8100   3164   2732 R  26.3  0.3   0:00.09 top
+25187 pi        20   0  591452 177088 101748 S  21.1 18.7   1:52.95 chromium-browse
+  461 root      20   0  184304  32912  12712 S  15.8  3.5   1:08.49 Xorg
+  819 pi        20   0  119740  17576  13732 S  10.5  1.9   0:23.80 pcmanfm
+23931 pi        20   0   46912  10844   9176 S  10.5  1.1   0:05.11 lxterminal
+26728 pi        20   0  395976 118872  81296 S  10.5 12.6   0:57.59 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:54:23 up  3:59,  2 users,  load average: 0.42, 0.57, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   296656 free,   306304 used,   342560 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   565628 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23949 pi        20   0   45708  11476   9984 S  40.0  1.2   0:55.90 lxtask
+  461 root      20   0  184304  32912  12712 S  20.0  3.5   1:08.58 Xorg
+25187 pi        20   0  591452 177088 101748 S  15.0 18.7   1:53.13 chromium-browse
+26728 pi        20   0  395976 118872  81296 S  10.0 12.6   0:57.74 chromium-browse
+26826 root      20   0    8100   3152   2720 R  10.0  0.3   0:00.09 top
+  337 nobody    20   0    5288     24      0 S   5.0  0.0   0:01.21 thd
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:54:24 up  3:59,  2 users,  load average: 0.38, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298468 free,   304492 used,   342560 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26830 root      20   0    8100   3116   2684 R  15.0  0.3   0:00.09 top
+25187 pi        20   0  591452 177088 101748 S  10.0 18.7   1:53.31 chromium-browse
+23931 pi        20   0   46912  10844   9176 S   5.0  1.1   0:05.15 lxterminal
+26728 pi        20   0  395976 119136  81296 S   5.0 12.6   0:57.86 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.17 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:25 up  3:59,  2 users,  load average: 0.38, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298592 free,   304368 used,   342560 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25187 pi        20   0  591452 177088 101748 S  16.7 18.7   1:53.47 chromium-browse
+26834 root      20   0    8100   3056   2624 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  395976 119136  81296 S  11.1 12.6   0:57.98 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.17 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.90 rcu_sched
+top - 09:54:27 up  3:59,  2 users,  load average: 0.38, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298272 free,   304676 used,   342572 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567256 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25187 pi        20   0  591452 177088 101748 S  15.0 18.7   1:53.66 chromium-browse
+26838 root      20   0    8100   3188   2756 R  10.0  0.3   0:00.09 top
+26728 pi        20   0  395976 119400  81296 S   5.0 12.6   0:58.12 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.17 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.90 rcu_sched
+top - 09:54:28 up  3:59,  2 users,  load average: 0.38, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298956 free,   303992 used,   342572 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26842 root      20   0    8100   3196   2764 R  14.3  0.3   0:00.08 top
+25187 pi        20   0  591452 177088 101748 S   9.5 18.7   1:53.84 chromium-browse
+  424 root      20   0  932960  13280   6560 S   4.8  1.4   1:10.80 dockerd
+26728 pi        20   0  395976 118596  81296 S   4.8 12.5   0:58.25 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.17 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:29 up  3:59,  2 users,  load average: 0.35, 0.55, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   299088 free,   303860 used,   342572 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   568072 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:54.01 chromium-browse
+26846 root      20   0    8100   3220   2788 R  11.1  0.3   0:00.06 top
+26728 pi        20   0  395976 118856  81296 S   5.6 12.6   0:58.38 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.17 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.90 rcu_sched
+top - 09:54:30 up  3:59,  2 users,  load average: 0.35, 0.55, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   299048 free,   303896 used,   342576 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   568032 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26850 root      20   0    8100   3204   2772 R  14.3  0.3   0:00.09 top
+25187 pi        20   0  591452 177088 101748 S   9.5 18.7   1:54.19 chromium-browse
+26728 pi        20   0  395976 118856  81296 S   9.5 12.6   0:58.50 chromium-browse
+  424 root      20   0  932960  13280   6560 S   4.8  1.4   1:10.81 dockerd
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.17 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:32 up  3:59,  2 users,  load average: 0.35, 0.55, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   299072 free,   303860 used,   342588 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   568068 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26854 root      20   0    8100   3116   2684 R  15.0  0.3   0:00.08 top
+25187 pi        20   0  591452 177088 101748 S  10.0 18.7   1:54.36 chromium-browse
+26728 pi        20   0  395976 119104  81296 S   5.0 12.6   0:58.63 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.90 rcu_sched
+top - 09:54:33 up  3:59,  2 users,  load average: 0.35, 0.55, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298840 free,   304092 used,   342588 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567836 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23949 pi        20   0   45708  11476   9984 S  33.3  1.2   0:56.39 lxtask
+25187 pi        20   0  591452 177088 101748 S  14.3 18.7   1:54.57 chromium-browse
+26728 pi        20   0  395976 119368  81296 S  14.3 12.6   0:58.77 chromium-browse
+26858 root      20   0    8100   3164   2732 R  14.3  0.3   0:00.09 top
+  461 root      20   0  184304  32912  12712 S   9.5  3.5   1:09.01 Xorg
+    7 root      20   0       0      0      0 S   4.8  0.0   0:02.91 rcu_sched
+  424 root      20   0  932960  13280   6560 S   4.8  1.4   1:10.82 dockerd
+  502 root      20   0  901396   6376   2928 S   4.8  0.7   0:58.64 docker-containe
+top - 09:54:34 up  3:59,  2 users,  load average: 0.41, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298780 free,   304112 used,   342628 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567804 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25187 pi        20   0  591452 177088 101748 S  30.0 18.7   1:54.88 chromium-browse
+25448 pi        20   0  381460  86220  56212 S  25.0  9.1   0:06.71 chromium-browse
+26862 root      20   0    8100   3116   2684 R  10.0  0.3   0:00.08 top
+26728 pi        20   0  395976 119368  81296 S   5.0 12.6   0:58.89 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:35 up  3:59,  2 users,  load average: 0.41, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298656 free,   304236 used,   342628 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26866 root      20   0    8100   3092   2660 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:55.03 chromium-browse
+26728 pi        20   0  395976 118616  81296 S  11.1 12.5   0:59.02 chromium-browse
+  424 root      20   0  932960  13280   6560 S   5.6  1.4   1:10.83 dockerd
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:37 up  3:59,  2 users,  load average: 0.41, 0.56, 0.52
+Tasks: 174 total,   3 running, 171 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   299036 free,   303844 used,   342640 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   568084 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26870 root      20   0    8100   3124   2692 R  15.0  0.3   0:00.09 top
+25187 pi        20   0  591452 177088 101748 R  10.0 18.7   1:55.22 chromium-browse
+26728 pi        20   0  395976 118872  81296 R   5.0 12.6   0:59.15 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.91 rcu_sched
+top - 09:54:38 up  3:59,  2 users,  load average: 0.41, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298656 free,   304224 used,   342640 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26874 root      20   0    8100   3164   2732 R  15.8  0.3   0:00.09 top
+26728 pi        20   0  395976 119096  81296 S  10.5 12.6   0:59.27 chromium-browse
+25187 pi        20   0  591452 177088 101748 S   5.3 18.7   1:55.39 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.91 rcu_sched
+top - 09:54:39 up  3:59,  2 users,  load average: 0.53, 0.58, 0.53
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298284 free,   304596 used,   342640 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26878 root      20   0    8100   3192   2760 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:55.56 chromium-browse
+26728 pi        20   0  395976 119096  81296 S   5.6 12.6   0:59.39 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.91 rcu_sched
+top - 09:54:40 up  3:59,  2 users,  load average: 0.53, 0.58, 0.53
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298184 free,   304696 used,   342640 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567232 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25187 pi        20   0  591452 177088 101748 S  14.3 18.7   1:55.75 chromium-browse
+26882 root      20   0    8100   3220   2788 R   9.5  0.3   0:00.09 top
+26728 pi        20   0  395976 119312  81296 R   4.8 12.6   0:59.51 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.91 rcu_sched
+top - 09:54:42 up  3:59,  2 users,  load average: 0.53, 0.58, 0.53
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298184 free,   304684 used,   342652 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567244 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26886 root      20   0    8100   3064   2632 R  23.8  0.3   0:00.12 top
+25187 pi        20   0  591452 177088 101748 S  19.0 18.7   1:55.94 chromium-browse
+  461 root      20   0  184304  32912  12712 S   4.8  3.5   1:09.36 Xorg
+  817 pi        20   0  140612  14372  10712 S   4.8  1.5   0:39.10 lxpanel
+23931 pi        20   0   46912  10844   9176 S   4.8  1.1   0:05.24 lxterminal
+26728 pi        20   0  395976 119528  81296 S   4.8 12.6   0:59.64 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:54:43 up  3:59,  2 users,  load average: 0.53, 0.58, 0.53
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298628 free,   304240 used,   342652 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567688 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23949 pi        20   0   45708  11476   9984 S  38.1  1.2   0:56.85 lxtask
+25187 pi        20   0  591452 177088 101748 S  14.3 18.7   1:56.11 chromium-browse
+26728 pi        20   0  395976 118856  81296 S  14.3 12.6   0:59.78 chromium-browse
+  461 root      20   0  184304  32912  12712 S   9.5  3.5   1:09.41 Xorg
+26890 root      20   0    8100   3152   2720 R   9.5  0.3   0:00.09 top
+  424 root      20   0  932960  13280   6560 S   4.8  1.4   1:10.86 dockerd
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:54:44 up  3:59,  2 users,  load average: 0.49, 0.57, 0.53
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298556 free,   304300 used,   342664 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567620 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26894 root      20   0    8100   3188   2756 R  28.6  0.3   0:00.12 top
+25187 pi        20   0  591452 177088 101748 S  23.8 18.7   1:56.33 chromium-browse
+26728 pi        20   0  395976 118856  81296 S   9.5 12.6   0:59.91 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.92 rcu_sched
+top - 09:54:46 up  3:59,  2 users,  load average: 0.49, 0.57, 0.53
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298492 free,   304364 used,   342664 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567564 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26898 root      20   0    8100   3184   2752 R  22.7  0.3   0:00.12 top
+25187 pi        20   0  591452 177088 101748 S  18.2 18.7   1:56.52 chromium-browse
+26728 pi        20   0  395976 119076  81296 S   9.1 12.6   1:00.04 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.92 rcu_sched
+top - 09:54:47 up  3:59,  2 users,  load average: 0.49, 0.57, 0.53
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   298656 free,   304196 used,   342668 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   567732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+23949 pi        20   0   45708  11476   9984 R  20.0  1.2   0:56.97 lxtask
+26902 root      20   0    8100   3164   2732 R  15.0  0.3   0:00.09 top
+25187 pi        20   0  591452 177088 101748 S  10.0 18.7   1:56.68 chromium-browse
+26728 pi        20   0  395976 119296  81296 S   5.0 12.6   1:00.16 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:48 up  3:59,  2 users,  load average: 0.49, 0.57, 0.53
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   297672 free,   305180 used,   342668 buff/cache
+KiB Swap:   102396 total,    40612 free,    61784 used.   566748 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25629 pi        20   0  421768 129276  71348 R 104.5 13.7   0:35.63 chromium-browse
+25187 pi        20   0  591452 177088 101748 S   9.1 18.7   1:56.87 chromium-browse
+26728 pi        20   0  395976 119296  81296 S   9.1 12.6   1:00.32 chromium-browse
+26906 root      20   0    8100   3152   2720 R   9.1  0.3   0:00.09 top
+  461 root      20   0  184304  32912  12712 S   4.5  3.5   1:09.60 Xorg
+  817 pi        20   0  140612  14372  10712 S   4.5  1.5   0:39.11 lxpanel
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:54:49 up  3:59,  2 users,  load average: 0.45, 0.56, 0.52
+Tasks: 174 total,   1 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   297548 free,   305304 used,   342668 buff/cache
+KiB Swap:   102396 total,    40616 free,    61780 used.   566624 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26912 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:57.03 chromium-browse
+26728 pi        20   0  395976 119512  81296 S   5.6 12.6   1:00.42 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:02.92 rcu_sched
+top - 09:54:51 up  3:59,  2 users,  load average: 0.45, 0.56, 0.52
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   281140 free,   312800 used,   351580 buff/cache
+KiB Swap:   102396 total,    40616 free,    61780 used.   558948 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0   28664  17100   8364 R  83.3  1.8   0:00.59 python
+26917 root      20   0    8100   3192   2760 R  27.8  0.3   0:00.08 top
+26728 pi        20   0  395976 118892  81296 R  16.7 12.6   1:00.60 chromium-browse
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:57.21 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:52 up  3:59,  2 users,  load average: 0.45, 0.56, 0.52
+Tasks: 175 total,   1 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   270576 free,   318496 used,   356448 buff/cache
+KiB Swap:   102396 total,    40616 free,    61780 used.   553220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0   40080  24992  11028 D  88.9  2.6   0:01.47 python
+26922 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:57.39 chromium-browse
+26728 pi        20   0  395976 119136  81296 S  11.1 12.6   1:00.75 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:53 up  3:59,  2 users,  load average: 0.45, 0.56, 0.52
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   266592 free,   319468 used,   359460 buff/cache
+KiB Swap:   102396 total,    40616 free,    61780 used.   552088 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0   75000  26124  11736 R  88.9  2.8   0:02.43 python
+26728 pi        20   0  395976 119364  81296 R  16.7 12.6   1:00.90 chromium-browse
+26926 root      20   0    8100   3148   2716 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:57.56 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:54 up  3:59,  2 users,  load average: 0.50, 0.57, 0.53
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   252516 free,   329064 used,   363940 buff/cache
+KiB Swap:   102396 total,    40616 free,    61780 used.   542348 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0   87056  36136  12376 R  83.3  3.8   0:03.29 python
+26936 root      20   0    8100   3212   2780 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:57.73 chromium-browse
+26728 pi        20   0  395976 119364  81296 R  11.1 12.6   1:01.05 chromium-browse
+   93 root      20   0       0      0      0 S   5.6  0.0   0:03.58 mmcqd/0
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:54:56 up  3:59,  2 users,  load average: 0.50, 0.57, 0.53
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   241952 free,   335452 used,   368116 buff/cache
+KiB Swap:   102396 total,    40620 free,    61776 used.   535900 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0   94908  44204  13864 R 100.0  4.7   0:04.24 python
+26941 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:57.89 chromium-browse
+  817 pi        20   0  140612  14372  10712 S   5.6  1.5   0:39.12 lxpanel
+26728 pi        20   0  395976 119588  81296 S   5.6 12.6   1:01.18 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:54:57 up  3:59,  2 users,  load average: 0.50, 0.57, 0.53
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   238332 free,   339072 used,   368116 buff/cache
+KiB Swap:   102396 total,    40620 free,    61776 used.   532288 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0   98976  47820  13864 R 111.1  5.1   0:05.50 python
+23949 pi        20   0   45708  11480   9984 R  27.8  1.2   0:57.44 lxtask
+26945 root      20   0    8100   3204   2772 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:58.03 chromium-browse
+26728 pi        20   0  395828 119724  81296 S  11.1 12.7   1:01.33 chromium-browse
+  424 root      20   0  932960  13280   6560 S   5.6  1.4   1:10.91 dockerd
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:54:58 up  3:59,  2 users,  load average: 0.50, 0.57, 0.53
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   234868 free,   342536 used,   368116 buff/cache
+KiB Swap:   102396 total,    40620 free,    61776 used.   528824 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  102212  51248  13864 R 100.0  5.4   0:06.74 python
+26949 root      20   0    8100   3212   2780 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:58.18 chromium-browse
+26728 pi        20   0  395828 119296  81296 S  11.1 12.6   1:01.44 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:54:59 up  3:59,  2 users,  load average: 0.54, 0.58, 0.53
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   231256 free,   346148 used,   368116 buff/cache
+KiB Swap:   102396 total,    40620 free,    61776 used.   525212 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  105860  54836  13864 R  94.4  5.8   0:07.97 python
+26953 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:58.32 chromium-browse
+    7 root      20   0       0      0      0 S   5.6  0.0   0:02.94 rcu_sched
+26728 pi        20   0  395828 119296  81296 S   5.6 12.6   1:01.54 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:01 up  4:00,  2 users,  load average: 0.54, 0.58, 0.53
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   227916 free,   349484 used,   368120 buff/cache
+KiB Swap:   102396 total,    40620 free,    61776 used.   521876 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  109116  58268  13864 R  73.7  6.2   0:09.16 python
+26957 root      20   0    8100   3188   2756 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   1:58.46 chromium-browse
+  817 pi        20   0  140612  14372  10712 S   5.3  1.5   0:39.13 lxpanel
+26728 pi        20   0  395828 119528  81296 S   5.3 12.6   1:01.64 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:02 up  4:00,  2 users,  load average: 0.54, 0.58, 0.53
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   223756 free,   353644 used,   368120 buff/cache
+KiB Swap:   102396 total,    40644 free,    61752 used.   517724 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  113240  61700  13864 R  94.4  6.5   0:10.38 python
+26970 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:58.61 chromium-browse
+26728 pi        20   0  395828 119528  81296 S  11.1 12.6   1:01.75 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:03 up  4:00,  2 users,  load average: 0.54, 0.58, 0.53
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   219864 free,   357500 used,   368156 buff/cache
+KiB Swap:   102396 total,    40644 free,    61752 used.   513832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  118456  65316  13864 R  95.0  6.9   0:11.65 python
+26974 root      20   0    8100   3152   2720 R  15.0  0.3   0:00.07 top
+25187 pi        20   0  591452 177088 101748 S  10.0 18.7   1:58.75 chromium-browse
+  461 root      20   0  184304  32912  12712 S   5.0  3.5   1:10.17 Xorg
+26728 pi        20   0  395828 119792  81296 S   5.0 12.7   1:01.85 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:04 up  4:00,  2 users,  load average: 0.57, 0.58, 0.53
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   216328 free,   361036 used,   368156 buff/cache
+KiB Swap:   102396 total,    40644 free,    61752 used.   510296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  121560  68748  13864 R  84.2  7.3   0:12.86 python
+26978 root      20   0    8100   3064   2632 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  10.5 18.7   1:58.90 chromium-browse
+26728 pi        20   0  395828 119792  81296 S  10.5 12.7   1:01.96 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:06 up  4:00,  2 users,  load average: 0.57, 0.58, 0.53
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   210936 free,   366424 used,   368160 buff/cache
+KiB Swap:   102396 total,    40656 free,    61740 used.   504908 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  125056  72444  13864 R 100.0  7.7   0:14.11 python
+25187 pi        20   0  591452 177088 101748 R  16.7 18.7   1:59.06 chromium-browse
+26982 root      20   0    8100   3156   2724 R  16.7  0.3   0:00.06 top
+  461 root      20   0  187236  35844  12712 S  11.1  3.8   1:10.37 Xorg
+26728 pi        20   0  396340 119592  81296 S  11.1 12.6   1:02.09 chromium-browse
+  817 pi        20   0  140612  14372  10712 S   5.6  1.5   0:39.17 lxpanel
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:07 up  4:00,  2 users,  load average: 0.57, 0.58, 0.53
+Tasks: 175 total,   4 running, 171 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   207208 free,   370144 used,   368168 buff/cache
+KiB Swap:   102396 total,    40656 free,    61740 used.   501188 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  128988  75876  13864 R 105.6  8.0   0:15.37 python
+23949 pi        20   0   45708  11480   9984 R  16.7  1.2   0:57.83 lxtask
+26986 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:59.20 chromium-browse
+  461 root      20   0  187236  35844  12712 S   5.6  3.8   1:10.45 Xorg
+  502 root      20   0  901396   6376   2928 S   5.6  0.7   0:58.74 docker-containe
+  819 pi        20   0  119740  17576  13732 S   5.6  1.9   0:25.65 pcmanfm
+26728 pi        20   0  396340 119592  81296 R   5.6 12.6   1:02.20 chromium-browse
+top - 09:55:08 up  4:00,  2 users,  load average: 0.57, 0.58, 0.53
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   197008 free,   380096 used,   368416 buff/cache
+KiB Swap:   102396 total,    40656 free,    61740 used.   490992 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  133412  79308  13864 R 100.0  8.4   0:16.60 python
+26993 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:59.38 chromium-browse
+26728 pi        20   0  396340 119844  81296 S  11.1 12.7   1:02.35 chromium-browse
+26990 pi        20   0   77472  20620  17376 S   5.6  2.2   0:00.57 leafpad
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:09 up  4:00,  2 users,  load average: 0.61, 0.59, 0.53
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   193164 free,   383940 used,   368416 buff/cache
+KiB Swap:   102396 total,    40656 free,    61740 used.   487148 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  138388  82852  13864 R 100.0  8.8   0:17.82 python
+26997 root      20   0    8100   3196   2764 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  11.1 18.7   1:59.53 chromium-browse
+  461 root      20   0  191304  39020  12956 S   5.6  4.1   1:10.77 Xorg
+26728 pi        20   0  396340 119844  81296 S   5.6 12.7   1:02.45 chromium-browse
+26990 pi        20   0   77472  20620  17376 S   5.6  2.2   0:00.62 leafpad
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:11 up  4:00,  2 users,  load average: 0.61, 0.59, 0.53
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   189684 free,   387416 used,   368420 buff/cache
+KiB Swap:   102396 total,    40660 free,    61736 used.   483672 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  138388  86544  13864 R 123.5  9.2   0:19.08 python
+25187 pi        20   0  591452 177088 101748 S  17.6 18.7   1:59.69 chromium-browse
+27001 root      20   0    8100   3136   2704 R  17.6  0.3   0:00.06 top
+26728 pi        20   0  396340 120100  81296 S  11.8 12.7   1:02.57 chromium-browse
+26990 pi        20   0   77472  20620  17376 R  11.8  2.2   0:00.72 leafpad
+  461 root      20   0  191304  39100  12956 S   5.9  4.1   1:10.88 Xorg
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:12 up  4:00,  2 users,  load average: 0.61, 0.59, 0.53
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   185476 free,   391608 used,   368436 buff/cache
+KiB Swap:   102396 total,    40668 free,    61728 used.   479464 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  143984  90240  13864 R 100.0  9.5   0:20.37 python
+27005 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   1:59.86 chromium-browse
+  461 root      20   0  191304  39116  12972 S   5.6  4.1   1:11.12 Xorg
+26728 pi        20   0  396340 119600  81296 R   5.6 12.6   1:02.71 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:13 up  4:00,  2 users,  load average: 0.61, 0.59, 0.53
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   181872 free,   395200 used,   368448 buff/cache
+KiB Swap:   102396 total,    40668 free,    61728 used.   475868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  150284  93672  13864 R 100.0  9.9   0:21.62 python
+25187 pi        20   0  591452 177088 101748 S  16.7 18.7   2:00.03 chromium-browse
+27010 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  396340 119600  81296 S   5.6 12.6   1:02.83 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:14 up  4:00,  2 users,  load average: 0.64, 0.60, 0.54
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   178152 free,   398920 used,   368448 buff/cache
+KiB Swap:   102396 total,    40692 free,    61704 used.   472148 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  150284  97368  13864 R 100.0 10.3   0:22.88 python
+27014 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:00.18 chromium-browse
+26728 pi        20   0  396340 119856  81296 S  11.1 12.7   1:02.97 chromium-browse
+  337 nobody    20   0    5288     24      0 S   5.6  0.0   0:01.24 thd
+  461 root      20   0  191304  39120  12976 S   5.6  4.1   1:11.62 Xorg
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:16 up  4:00,  2 users,  load average: 0.64, 0.60, 0.54
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   177152 free,   399916 used,   368452 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   471152 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  157368 100800  13864 R  94.7 10.7   0:24.12 python
+27018 root      20   0    8100   3212   2780 R  15.8  0.3   0:00.06 top
+23949 pi        20   0   45708  11480   9984 S  10.5  1.2   0:58.30 lxtask
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:00.33 chromium-browse
+26728 pi        20   0  396340 119856  81296 S  10.5 12.7   1:03.09 chromium-browse
+  461 root      20   0  188372  36292  12976 S   5.3  3.8   1:11.75 Xorg
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:17 up  4:00,  2 users,  load average: 0.64, 0.60, 0.54
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   173324 free,   403744 used,   368452 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   467324 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  157368 104496  13864 R 105.6 11.1   0:25.36 python
+23949 pi        20   0   45708  11480   9984 R  16.7  1.2   0:58.35 lxtask
+27022 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:00.48 chromium-browse
+  461 root      20   0  188372  36292  12976 S   5.6  3.8   1:11.81 Xorg
+26728 pi        20   0  396340 120112  81296 S   5.6 12.7   1:03.19 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:18 up  4:00,  2 users,  load average: 0.64, 0.60, 0.54
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.8 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   169596 free,   407472 used,   368452 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   463596 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  165340 107928  13864 R 100.0 11.4   0:26.60 python
+27026 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:00.63 chromium-browse
+26728 pi        20   0  396340 120364  81296 S  11.1 12.7   1:03.30 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:19 up  4:00,  2 users,  load average: 0.83, 0.64, 0.55
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   166884 free,   410172 used,   368464 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   460896 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  165340 111624  13864 R 100.0 11.8   0:27.83 python
+27030 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:00.77 chromium-browse
+  461 root      20   0  188372  36292  12976 S   5.6  3.8   1:11.92 Xorg
+26728 pi        20   0  396340 119672  81296 S   5.6 12.7   1:03.41 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:21 up  4:00,  2 users,  load average: 0.83, 0.64, 0.55
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   163528 free,   413528 used,   368464 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   457540 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  174304 115056  13864 R 100.0 12.2   0:29.07 python
+27035 root      20   0    8100   3164   2732 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:00.91 chromium-browse
+26728 pi        20   0  396340 119932  81296 S  10.5 12.7   1:03.51 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:22 up  4:00,  2 users,  load average: 0.83, 0.64, 0.55
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   159684 free,   417372 used,   368464 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   453696 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  174304 118488  13864 R 100.0 12.5   0:30.30 python
+27039 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:01.06 chromium-browse
+26728 pi        20   0  396340 119932  81296 S   5.6 12.7   1:03.61 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:23 up  4:00,  2 users,  load average: 0.83, 0.64, 0.55
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   155468 free,   421588 used,   368464 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   449480 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  174304 122184  13864 R  94.7 12.9   0:31.54 python
+23949 pi        20   0   45708  11480   9984 S  21.1  1.2   0:58.65 lxtask
+27043 root      20   0    8100   3184   2752 R  15.8  0.3   0:00.06 top
+  461 root      20   0  188372  36292  12976 S  10.5  3.8   1:12.05 Xorg
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:01.20 chromium-browse
+26728 pi        20   0  396340 120184  81296 S  10.5 12.7   1:03.73 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:24 up  4:00,  2 users,  load average: 0.84, 0.64, 0.55
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   152212 free,   424840 used,   368468 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   446228 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  184392 125588  13864 R 100.0 13.3   0:32.77 python
+27047 root      20   0    8100   3064   2632 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:01.34 chromium-browse
+26728 pi        20   0  396340 120184  81296 S  11.1 12.7   1:03.83 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:26 up  4:00,  2 users,  load average: 0.84, 0.64, 0.55
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   148400 free,   428644 used,   368476 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   442424 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  184392 129284  13864 R 100.0 13.7   0:34.02 python
+27051 root      20   0    8100   3124   2692 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:01.49 chromium-browse
+26711 root      20   0       0      0      0 S   5.6  0.0   0:00.38 kworker/2:1
+26728 pi        20   0  396340 120448  81296 R   5.6 12.7   1:03.93 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:27 up  4:00,  2 users,  load average: 0.84, 0.64, 0.55
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   145564 free,   431480 used,   368476 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   439588 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  184392 132716  13864 R 100.0 14.0   0:35.25 python
+27056 root      20   0    8100   3156   2724 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:01.63 chromium-browse
+26728 pi        20   0  396852 119772  81296 S  11.1 12.7   1:04.04 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:28 up  4:00,  2 users,  load average: 0.84, 0.64, 0.55
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.2 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   141448 free,   435592 used,   368480 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   435472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  195744 136148  13864 R  94.4 14.4   0:36.47 python
+27060 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:01.77 chromium-browse
+26728 pi        20   0  396852 120036  81296 S   5.6 12.7   1:04.14 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:29 up  4:00,  2 users,  load average: 1.02, 0.68, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   138092 free,   438944 used,   368484 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   432120 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  195744 139580  13864 R  94.4 14.8   0:37.67 python
+27064 root      20   0    8100   3192   2760 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:01.92 chromium-browse
+26728 pi        20   0  396852 120036  81296 S  11.1 12.7   1:04.25 chromium-browse
+  461 root      20   0  188372  36292  12976 S   5.6  3.8   1:12.27 Xorg
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:30 up  4:00,  2 users,  load average: 1.02, 0.68, 0.57
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   133372 free,   443664 used,   368484 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   427400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  195744 143012  13864 R  94.4 15.1   0:38.87 python
+25629 pi        20   0  422792 130756  71348 S  44.4 13.8   0:36.18 chromium-browse
+27070 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  11.1 18.7   2:02.07 chromium-browse
+26728 pi        20   0  396852 120300  81296 S   5.6 12.7   1:04.35 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:32 up  4:00,  2 users,  load average: 1.02, 0.68, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   129768 free,   447260 used,   368492 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   423804 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  208512 146444  13864 R 100.0 15.5   0:40.07 python
+27075 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:02.21 chromium-browse
+26728 pi        20   0  396852 120564  81296 S  11.1 12.8   1:04.46 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:33 up  4:00,  2 users,  load average: 1.02, 0.68, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   124004 free,   453024 used,   368492 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   418040 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  208512 150140  13864 R 111.8 15.9   0:41.31 python
+23949 pi        20   0   45708  11480   9984 S  47.1  1.2   0:59.03 lxtask
+27079 root      20   0    8100   3020   2588 R  17.6  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.8 18.7   2:02.36 chromium-browse
+26728 pi        20   0  396852 120564  81296 S  11.8 12.8   1:04.56 chromium-browse
+  422 vnstat    20   0    2380   1024    944 S   5.9  0.1   0:02.02 vnstatd
+  424 root      20   0  932960  13272   6560 S   5.9  1.4   1:11.10 dockerd
+  461 root      20   0  190788  38400  12976 S   5.9  4.1   1:12.39 Xorg
+top - 09:55:34 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   122700 free,   454324 used,   368496 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   416740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  208512 153572  13864 R  94.7 16.2   0:42.55 python
+27083 root      20   0    8100   3204   2772 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:02.50 chromium-browse
+  461 root      20   0  188372  36292  12976 S   5.3  3.8   1:12.44 Xorg
+26728 pi        20   0  396852 120068  81296 R   5.3 12.7   1:04.66 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:35 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   118484 free,   458540 used,   368496 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   412524 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  208512 157004  13864 R  78.9 16.6   0:43.76 python
+25187 pi        20   0  591452 177088 101748 S  15.8 18.7   2:02.65 chromium-browse
+27087 root      20   0    8100   3136   2704 R  15.8  0.3   0:00.06 top
+  502 root      20   0  901396   6360   2928 S   5.3  0.7   0:58.82 docker-containe
+26728 pi        20   0  396852 120332  81296 S   5.3 12.7   1:04.76 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:37 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   115244 free,   461780 used,   368496 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   409284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  222872 160436  13864 R  94.4 17.0   0:44.96 python
+27091 root      20   0    8100   3116   2684 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:02.79 chromium-browse
+26728 pi        20   0  396852 120332  81296 S  11.1 12.7   1:04.86 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:38 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   111796 free,   465220 used,   368504 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   405844 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  222872 163868  13864 R  94.4 17.3   0:46.17 python
+25187 pi        20   0  591452 177088 101748 S  16.7 18.7   2:02.95 chromium-browse
+27095 root      20   0    8100   3136   2704 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  396852 120548  81296 S  11.1 12.7   1:04.97 chromium-browse
+  461 root      20   0  188372  36292  12976 S   5.6  3.8   1:12.58 Xorg
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:39 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   108200 free,   468812 used,   368508 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   402252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  222872 167300  13864 R  88.9 17.7   0:47.35 python
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:03.10 chromium-browse
+27099 root      20   0    8100   3064   2632 R  11.1  0.3   0:00.06 top
+  461 root      20   0  188372  36292  12976 S   5.6  3.8   1:12.63 Xorg
+23949 pi        20   0   45708  11480   9984 S   5.6  1.2   0:59.27 lxtask
+26728 pi        20   0  396852 120768  81296 S   5.6 12.8   1:05.08 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:40 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   104860 free,   472152 used,   368508 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   398912 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  222872 170996  13864 R  94.4 18.1   0:48.57 python
+27103 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:03.25 chromium-browse
+26728 pi        20   0  396852 120768  81296 R  11.1 12.8   1:05.18 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:42 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,   101504 free,   475504 used,   368512 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   395560 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  239032 174428  13864 R  89.5 18.4   0:49.76 python
+27107 root      20   0    8100   3164   2732 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:03.39 chromium-browse
+26728 pi        20   0  396852 120200  81296 S  10.5 12.7   1:05.29 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:43 up  4:00,  2 users,  load average: 1.01, 0.69, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    97908 free,   479100 used,   368512 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   391964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  239032 177860  13864 R 100.0 18.8   0:51.00 python
+27111 root      20   0    8100   3080   2648 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:03.53 chromium-browse
+26728 pi        20   0  396852 120464  81296 S   5.6 12.7   1:05.39 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:44 up  4:00,  2 users,  load average: 1.01, 0.70, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    94560 free,   482436 used,   368524 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   388628 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  239032 181556  13864 R 100.0 19.2   0:52.24 python
+27115 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:03.68 chromium-browse
+26728 pi        20   0  396852 120464  81296 S   5.6 12.7   1:05.49 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:45 up  4:00,  2 users,  load average: 1.01, 0.70, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    90584 free,   486412 used,   368524 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   384652 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  239032 184988  13864 R 100.0 19.6   0:53.48 python
+27119 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:03.82 chromium-browse
+26728 pi        20   0  396852 120724  81296 S   5.6 12.8   1:05.60 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:47 up  4:00,  2 users,  load average: 1.01, 0.70, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    86748 free,   490248 used,   368524 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   380816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  257212 188684  13864 R 100.0 20.0   0:54.72 python
+27123 root      20   0    8100   3136   2704 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:03.97 chromium-browse
+  502 root      20   0  901396   6360   2928 S   5.6  0.7   0:58.85 docker-containe
+26728 pi        20   0  396852 120980  81296 S   5.6 12.8   1:05.70 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:48 up  4:00,  2 users,  load average: 1.01, 0.70, 0.57
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    83328 free,   493664 used,   368528 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   377400 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  257212 192116  13864 R 100.0 20.3   0:55.96 python
+27127 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:04.12 chromium-browse
+26728 pi        20   0  397364 120480  81296 S  11.1 12.7   1:05.81 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:49 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    79460 free,   497532 used,   368528 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   373532 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  257212 195812  13864 R  94.7 20.7   0:57.19 python
+23949 pi        20   0   45708  11480   9984 S  42.1  1.2   0:59.66 lxtask
+  461 root      20   0  188372  36292  12976 S  15.8  3.8   1:13.00 Xorg
+27131 root      20   0    8100   3064   2632 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:04.27 chromium-browse
+26728 pi        20   0  397364 120480  81296 S  10.5 12.7   1:05.92 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.63 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:55:50 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    75736 free,   501248 used,   368536 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   369816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  257212 199508  13864 R 100.0 21.1   0:58.46 python
+25187 pi        20   0  591452 177088 101748 S  15.8 18.7   2:04.43 chromium-browse
+27135 root      20   0    8100   3184   2752 R  15.8  0.3   0:00.06 top
+26728 pi        20   0  397364 120736  81296 S   5.3 12.8   1:06.02 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:52 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    72116 free,   504868 used,   368536 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   366196 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  257212 202940  13864 R 100.0 21.5   0:59.70 python
+27139 root      20   0    8100   3136   2704 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:04.57 chromium-browse
+26728 pi        20   0  397364 120736  81296 R   5.6 12.8   1:06.12 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:53 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    68628 free,   508352 used,   368540 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   362712 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  277664 206652  13864 R 100.0 21.9   1:00.93 python
+25187 pi        20   0  591452 177088 101748 S  16.7 18.7   2:04.72 chromium-browse
+27143 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  397364 120992  81296 S  11.1 12.8   1:06.23 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:54 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   4 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    64800 free,   512180 used,   368540 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   358884 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  277664 210080  13864 R 100.0 22.2   1:02.16 python
+27147 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  11.1 18.7   2:04.86 chromium-browse
+  502 root      20   0  901396   6360   2928 S   5.6  0.7   0:58.87 docker-containe
+26728 pi        20   0  397364 120992  81296 R   5.6 12.8   1:06.32 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:55:55 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   4 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    61660 free,   515308 used,   368552 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   355756 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  277664 213776  13864 R 100.0 22.6   1:03.42 python
+27151 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  11.1 18.7   2:05.01 chromium-browse
+26728 pi        20   0  397364 120516  81296 R   5.6 12.7   1:06.43 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:56 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    57964 free,   519004 used,   368552 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   352060 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  277664 217208  13864 R 100.0 23.0   1:04.66 python
+27155 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:05.15 chromium-browse
+26728 pi        20   0  397364 120776  81296 S   5.6 12.8   1:06.53 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:58 up  4:00,  2 users,  load average: 1.01, 0.71, 0.58
+Tasks: 176 total,   4 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    54400 free,   522564 used,   368556 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   348500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  277664 220904  13864 R  94.4 23.4   1:05.90 python
+27159 root      20   0    8100   3064   2632 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  11.1 18.7   2:05.30 chromium-browse
+26728 pi        20   0  397364 120776  81296 R   5.6 12.8   1:06.63 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:55:59 up  4:00,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    50540 free,   526424 used,   368556 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   344640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  277664 224336  13864 R  94.4 23.7   1:07.13 python
+23949 pi        20   0   45708  11480   9984 S  44.4  1.2   1:00.05 lxtask
+25187 pi        20   0  591452 177088 101748 S  16.7 18.7   2:05.45 chromium-browse
+27163 root      20   0    8100   3064   2632 R  16.7  0.3   0:00.06 top
+  461 root      20   0  188372  36292  12976 S  11.1  3.8   1:13.36 Xorg
+26728 pi        20   0  397364 120996  81296 S   5.6 12.8   1:06.77 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:56:00 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    46548 free,   530408 used,   368564 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   340656 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 228032  13864 R 105.6 24.1   1:08.35 python
+27167 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:05.59 chromium-browse
+26728 pi        20   0  397364 121216  81296 S  11.1 12.8   1:06.88 chromium-browse
+  817 pi        20   0  140612  14372  10712 S   5.6  1.5   0:39.33 lxpanel
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:01 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    43248 free,   533708 used,   368564 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   337356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 231464  13864 R  94.4 24.5   1:09.54 python
+27171 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 R  11.1 18.7   2:05.75 chromium-browse
+26728 pi        20   0  397364 121216  81296 S  11.1 12.8   1:07.01 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:03 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    40668 free,   536284 used,   368568 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   334780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 234896  13864 R  94.7 24.8   1:10.72 python
+27175 root      20   0    8100   3164   2732 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:05.89 chromium-browse
+26728 pi        20   0  397364 120836  81296 S   5.3 12.8   1:07.11 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:04 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.7 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37180 free,   539772 used,   368568 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   331292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 238064  13864 R  94.4 25.2   1:11.92 python
+27179 root      20   0    8100   3212   2780 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:06.04 chromium-browse
+26728 pi        20   0  397364 121100  81296 S  11.1 12.8   1:07.24 chromium-browse
+25629 pi        20   0  424072 131372  71348 R   5.6 13.9   0:36.19 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:05 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33932 free,   543012 used,   368576 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   328052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 241496  13864 R 100.0 25.5   1:13.17 python
+27186 root      20   0    8100   3100   2668 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  10.5 18.7   2:06.19 chromium-browse
+26728 pi        20   0  397364 121100  81296 S   5.3 12.8   1:07.35 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:06 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35916 free,   546660 used,   362944 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   324404 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 245144  13864 R 100.0 25.9   1:14.39 python
+27190 root      20   0    8100   3192   2760 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:06.33 chromium-browse
+26728 pi        20   0  397364 121364  81296 S  11.1 12.8   1:07.45 chromium-browse
+    7 root      20   0       0      0      0 S   5.6  0.0   0:02.99 rcu_sched
+   40 root      20   0       0      0      0 S   5.6  0.0   0:01.54 kswapd0
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:56:08 up  4:01,  2 users,  load average: 1.01, 0.72, 0.58
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33064 free,   549392 used,   363064 buff/cache
+KiB Swap:   102396 total,    40720 free,    61676 used.   321672 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  300672 248576  13864 R 100.0 26.3   1:15.61 python
+27194 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:06.48 chromium-browse
+26728 pi        20   0  397364 121572  81296 S   5.6 12.9   1:07.54 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:09 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   4 running, 171 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35520 free,   552252 used,   357748 buff/cache
+KiB Swap:   102396 total,    40716 free,    61680 used.   318816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 252248  13864 R 105.6 26.7   1:16.85 python
+23949 pi        20   0   45708  11480   9984 R  33.3  1.2   1:00.42 lxtask
+25187 pi        20   0  591452 177088 101748 S  16.7 18.7   2:06.63 chromium-browse
+27198 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+   40 root      20   0       0      0      0 S  11.1  0.0   0:01.59 kswapd0
+  424 root      20   0  932960  12716   5988 S   5.6  1.3   1:11.22 dockerd
+  461 root      20   0  190788  36188  12868 S   5.6  3.8   1:13.72 Xorg
+26728 pi        20   0  397364 121572  81296 R   5.6 12.9   1:07.64 chromium-browse
+top - 09:56:10 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32196 free,   555576 used,   357748 buff/cache
+KiB Swap:   102396 total,    40716 free,    61680 used.   315492 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 255680  13864 R 100.0 27.0   1:18.12 python
+27202 root      20   0    8100   3112   2680 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:06.77 chromium-browse
+26728 pi        20   0  397876 121188  81296 S   5.6 12.8   1:07.76 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:11 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35296 free,   557372 used,   352852 buff/cache
+KiB Swap:   102396 total,    40716 free,    61680 used.   313696 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 259112  13864 R  84.2 27.4   1:19.29 python
+25187 pi        20   0  591452 177088 101748 S  15.8 18.7   2:06.92 chromium-browse
+27206 root      20   0    8100   3056   2624 R  15.8  0.3   0:00.06 top
+26728 pi        20   0  397876 121372  81296 S   5.3 12.8   1:07.87 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:13 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31768 free,   560900 used,   352852 buff/cache
+KiB Swap:   102396 total,    40716 free,    61680 used.   310168 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 262808  13864 R 100.0 27.8   1:20.52 python
+27210 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:07.06 chromium-browse
+26728 pi        20   0  397876 121372  81296 S   5.6 12.8   1:07.96 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:14 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33916 free,   562708 used,   348896 buff/cache
+KiB Swap:   102396 total,    40712 free,    61684 used.   308364 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 265976  13864 R 100.0 28.1   1:21.69 python
+27214 root      20   0    8100   3144   2712 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177088 101748 S  11.1 18.7   2:07.20 chromium-browse
+26711 root      20   0       0      0      0 S   5.6  0.0   0:00.40 kworker/2:1
+26728 pi        20   0  397876 121676  81296 S   5.6 12.9   1:08.06 chromium-browse
+    1 root      20   0   27124   2204   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:15 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    40308 free,   563772 used,   341440 buff/cache
+KiB Swap:   102396 total,    40436 free,    61960 used.   307372 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 269408  13864 R  90.0 28.5   1:22.85 python
+   40 root      20   0       0      0      0 S  15.0  0.0   0:01.68 kswapd0
+25187 pi        20   0  591452 177100 101748 S  10.0 18.7   2:07.35 chromium-browse
+26728 pi        20   0  397876 121804  81296 S  10.0 12.9   1:08.17 chromium-browse
+27218 root      20   0    8100   3188   2756 R  10.0  0.3   0:00.06 top
+  461 root      20   0  188372  36088  12772 S   5.0  3.8   1:13.97 Xorg
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:56:16 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.3 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36944 free,   567132 used,   341444 buff/cache
+KiB Swap:   102396 total,    40436 free,    61960 used.   304012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  326556 272840  13864 R 100.0 28.9   1:24.06 python
+27222 root      20   0    8100   3204   2772 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  11.1 18.7   2:07.50 chromium-browse
+26728 pi        20   0  397876 121916  81296 S  11.1 12.9   1:08.27 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:18 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33900 free,   570168 used,   341452 buff/cache
+KiB Swap:   102396 total,    40436 free,    61960 used.   300976 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 276264  13864 R 100.0 29.2   1:25.29 python
+27226 root      20   0    8100   3212   2780 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  11.1 18.7   2:07.64 chromium-browse
+26728 pi        20   0  397876 121400  81296 S   5.6 12.8   1:08.38 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:19 up  4:01,  2 users,  load average: 1.01, 0.73, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35580 free,   572916 used,   337024 buff/cache
+KiB Swap:   102396 total,    40284 free,    62112 used.   298248 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 279960  13864 R 100.0 29.6   1:26.53 python
+27230 root      20   0    8100   3212   2780 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  11.1 18.7   2:07.78 chromium-browse
+26728 pi        20   0  397876 121576  81296 S   5.6 12.9   1:08.48 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:20 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31736 free,   576796 used,   336988 buff/cache
+KiB Swap:   102396 total,    40284 free,    62112 used.   294500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 283392  13864 R 100.0 30.0   1:27.77 python
+27234 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  11.1 18.7   2:07.93 chromium-browse
+26728 pi        20   0  397876 121576  81296 S   5.6 12.9   1:08.58 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:21 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33736 free,   580288 used,   331496 buff/cache
+KiB Swap:   102396 total,    40188 free,    62208 used.   291104 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 287088  13864 R  94.7 30.4   1:29.00 python
+27238 root      20   0    8100   3136   2704 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  10.5 18.7   2:08.07 chromium-browse
+26728 pi        20   0  397876 121820  81296 S   5.3 12.9   1:08.69 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:23 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35884 free,   584032 used,   325604 buff/cache
+KiB Swap:   102396 total,    40188 free,    62208 used.   287268 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 290520  13864 R  94.7 30.7   1:30.26 python
+27242 root      20   0    8100   3188   2756 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  10.5 18.7   2:08.22 chromium-browse
+26728 pi        20   0  397876 122016  81296 S   5.3 12.9   1:08.80 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:24 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32372 free,   587572 used,   325576 buff/cache
+KiB Swap:   102396 total,    40188 free,    62208 used.   283820 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 294216  13864 R 100.0 31.1   1:31.50 python
+27246 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177100 101748 S  11.1 18.7   2:08.37 chromium-browse
+26728 pi        20   0  397876 122016  81296 S   5.6 12.9   1:08.90 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:25 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36976 free,   590920 used,   317624 buff/cache
+KiB Swap:   102396 total,    40188 free,    62208 used.   280472 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 297912  13864 R  95.0 31.5   1:32.78 python
+27250 root      20   0    8100   3184   2752 R  15.0  0.3   0:00.07 top
+25187 pi        20   0  591452 177100 101748 S  10.0 18.7   2:08.52 chromium-browse
+26728 pi        20   0  397876 121608  81296 S  10.0 12.9   1:09.02 chromium-browse
+  461 root      20   0  188372  36088  12772 S   5.0  3.8   1:14.33 Xorg
+23949 pi        20   0   45708  11480   9984 S   5.0  1.2   1:01.11 lxtask
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:56:26 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33736 free,   594156 used,   317628 buff/cache
+KiB Swap:   102396 total,    40188 free,    62208 used.   277236 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 301344  13864 R  88.9 31.9   1:33.99 python
+27254 root      20   0    8100   3124   2692 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177176 101820 S  11.1 18.7   2:08.67 chromium-browse
+   37 root      20   0       0      0      0 S   5.6  0.0   0:01.86 kworker/0:1
+26728 pi        20   0  397876 121716  81296 R   5.6 12.9   1:09.12 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:28 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36912 free,   594772 used,   313836 buff/cache
+KiB Swap:   102396 total,    40188 free,    62208 used.   276588 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  355672 304776  13864 R  94.7 32.2   1:35.23 python
+27258 root      20   0    8100   3116   2684 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177176 101820 S  10.5 18.7   2:08.83 chromium-browse
+  461 root      20   0  188372  36088  12772 S   5.3  3.8   1:14.42 Xorg
+26728 pi        20   0  397876 121792  81296 S   5.3 12.9   1:09.23 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:29 up  4:01,  2 users,  load average: 1.00, 0.74, 0.59
+Tasks: 175 total,   4 running, 171 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33244 free,   598440 used,   313836 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   272920 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 308208  13864 R 100.0 32.6   1:36.45 python
+26728 pi        20   0  398580 122084  81296 R  33.3 12.9   1:09.37 chromium-browse
+27262 root      20   0    8100   3136   2704 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177176 101820 R  11.1 18.7   2:08.98 chromium-browse
+  461 root      20   0  188372  36088  12772 S   5.6  3.8   1:14.45 Xorg
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:30 up  4:01,  2 users,  load average: 1.08, 0.76, 0.60
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34912 free,   600108 used,   310500 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   271252 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 311896  13864 R 100.0 33.0   1:37.68 python
+25187 pi        20   0  591452 177176 101820 S  16.7 18.7   2:09.13 chromium-browse
+27266 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+  461 root      20   0  188372  36088  12772 S   5.6  3.8   1:14.51 Xorg
+26728 pi        20   0  398580 122084  81296 S   5.6 12.9   1:09.47 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:31 up  4:01,  2 users,  load average: 1.08, 0.76, 0.60
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37648 free,   602300 used,   305572 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   269056 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 315260  13864 R 100.0 33.3   1:38.91 python
+27270 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177176 101820 S  11.1 18.7   2:09.27 chromium-browse
+26728 pi        20   0  398580 122292  81296 S   5.6 12.9   1:09.56 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:33 up  4:01,  2 users,  load average: 1.08, 0.76, 0.60
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34672 free,   605276 used,   305572 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   266080 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 318956  13864 R  94.7 33.7   1:40.16 python
+27274 root      20   0    8100   3220   2788 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  591452 177176 101820 S  10.5 18.7   2:09.41 chromium-browse
+26728 pi        20   0  398580 121836  81296 S   5.3 12.9   1:09.67 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:34 up  4:01,  2 users,  load average: 1.08, 0.76, 0.60
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31448 free,   608492 used,   305580 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   262864 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 322388  13864 R 100.0 34.1   1:41.36 python
+27278 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  591452 177176 101820 S  11.1 18.7   2:09.56 chromium-browse
+26728 pi        20   0  398580 122044  81296 S  11.1 12.9   1:09.77 chromium-browse
+  461 root      20   0  188372  36088  12772 S   5.6  3.8   1:14.65 Xorg
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:35 up  4:01,  2 users,  load average: 1.16, 0.78, 0.61
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36184 free,   613420 used,   295916 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   257936 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 325820  13864 R  94.7 34.5   1:42.60 python
+23949 pi        20   0   45708  11480   9984 S  26.3  1.2   1:01.53 lxtask
+27282 root      20   0    8100   3188   2756 R  15.8  0.3   0:00.06 top
+  461 root      20   0  188372  36088  12772 S  10.5  3.8   1:14.70 Xorg
+25187 pi        20   0  592476 177796 101820 S  10.5 18.8   2:09.73 chromium-browse
+26728 pi        20   0  398580 122204  81296 S  10.5 12.9   1:09.87 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:56:36 up  4:01,  2 users,  load average: 1.16, 0.78, 0.61
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32508 free,   617092 used,   295920 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   254264 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 329516  13864 R 100.0 34.9   1:43.84 python
+27286 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177796 101820 S  11.1 18.8   2:09.87 chromium-browse
+26728 pi        20   0  398580 122204  81296 S   5.6 12.9   1:09.96 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:38 up  4:01,  2 users,  load average: 1.16, 0.78, 0.61
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34336 free,   620676 used,   290508 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   250680 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 332920  13836 R  94.4 35.2   1:45.08 python
+27290 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177788 101812 S  11.1 18.8   2:10.01 chromium-browse
+26728 pi        20   0  398580 122444  81296 S  11.1 12.9   1:10.06 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:39 up  4:01,  2 users,  load average: 1.16, 0.78, 0.61
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37732 free,   623656 used,   284132 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   247704 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  388432 336612  13832 R  88.9 35.6   1:46.32 python
+27294 root      20   0    8100   3064   2632 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177788 101812 S  11.1 18.8   2:10.15 chromium-browse
+26728 pi        20   0  398580 121732  81184 R  11.1 12.9   1:10.16 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:40 up  4:01,  2 users,  load average: 1.31, 0.82, 0.62
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34384 free,   627000 used,   284136 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   244360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 340032  13832 R 100.0 36.0   1:47.54 python
+26728 pi        20   0  398580 122048  81184 S  16.7 12.9   1:10.27 chromium-browse
+27298 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177788 101812 S  11.1 18.8   2:10.29 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:41 up  4:01,  2 users,  load average: 1.31, 0.82, 0.62
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36460 free,   631544 used,   277516 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   239840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+25629 pi        20   0  424328 123032  71348 S  88.9 13.0   0:37.03 chromium-browse
+26916 root      20   0  425284 343464  13832 R  77.8 36.3   1:48.73 python
+27302 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177760 101784 S  11.1 18.8   2:10.43 chromium-browse
+26728 pi        20   0  398580 122192  81184 S  11.1 12.9   1:10.39 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:43 up  4:01,  2 users,  load average: 1.31, 0.82, 0.62
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33292 free,   634712 used,   277516 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   236672 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 346632  13832 R 100.0 36.7   1:49.90 python
+27308 root      20   0    8100   3144   2712 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177944 101908 S  11.1 18.8   2:10.57 chromium-browse
+26728 pi        20   0  398580 122192  81184 S  11.1 12.9   1:10.49 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:44 up  4:01,  2 users,  load average: 1.31, 0.82, 0.62
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36716 free,   637936 used,   270868 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   233424 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 350328  13832 R 100.0 37.1   1:51.14 python
+27312 root      20   0    8100   3204   2772 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177804 101768 R   5.6 18.8   2:10.71 chromium-browse
+26728 pi        20   0  398580 122368  81140 S   5.6 12.9   1:10.59 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:45 up  4:01,  2 users,  load average: 1.28, 0.82, 0.62
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    39932 free,   641080 used,   264508 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   230280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 353760  13832 R 100.0 37.4   1:52.36 python
+23949 pi        20   0   45708  11452   9956 S  50.0  1.2   1:01.96 lxtask
+27316 root      20   0    8100   3160   2728 R  16.7  0.3   0:00.06 top
+  461 root      20   0  188372  35684  12368 S  11.1  3.8   1:15.07 Xorg
+25187 pi        20   0  592476 177376 101252 S  11.1 18.8   2:10.87 chromium-browse
+26728 pi        20   0  398580 122432  81032 S  11.1 12.9   1:10.69 chromium-browse
+   40 root      20   0       0      0      0 S   5.6  0.0   0:01.91 kswapd0
+  424 root      20   0  932960  12176   5364 S   5.6  1.3   1:11.33 dockerd
+top - 09:56:46 up  4:01,  2 users,  load average: 1.28, 0.82, 0.62
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37012 free,   644028 used,   264480 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   227360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 357192  13832 R  84.2 37.8   1:53.52 python
+27320 root      20   0    8100   3188   2756 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  592476 177376 101252 S  10.5 18.8   2:11.01 chromium-browse
+26728 pi        20   0  398580 121824  81032 S  10.5 12.9   1:10.80 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:48 up  4:01,  2 users,  load average: 1.28, 0.82, 0.62
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34284 free,   646676 used,   264560 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   224716 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 360624  13832 R  94.4 38.1   1:54.74 python
+27324 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 177376 101252 R  11.1 18.8   2:11.16 chromium-browse
+26728 pi        20   0  399092 122024  81032 S   5.6 12.9   1:10.92 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:49 up  4:01,  2 users,  load average: 1.28, 0.82, 0.62
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36972 free,   650956 used,   257592 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   220440 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 364056  13832 R  88.9 38.5   1:55.95 python
+27328 root      20   0    8100   3116   2684 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 176876 100752 R  11.1 18.7   2:11.31 chromium-browse
+26728 pi        20   0  399092 122012  80824 S  11.1 12.9   1:11.02 chromium-browse
+    1 root      20   0   27124   2040   1456 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:50 up  4:01,  2 users,  load average: 1.34, 0.84, 0.63
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.6 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33912 free,   654012 used,   257596 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   217384 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 367488  13832 R 100.0 38.9   1:57.13 python
+27332 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 176876 100752 S  11.1 18.7   2:11.46 chromium-browse
+26728 pi        20   0  399092 122236  80824 S  11.1 12.9   1:11.12 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:51 up  4:01,  2 users,  load average: 1.34, 0.84, 0.63
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37120 free,   657644 used,   250756 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   213752 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 370656  13832 R 100.0 39.2   1:58.32 python
+27336 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 176728 100604 R  11.1 18.7   2:11.60 chromium-browse
+26728 pi        20   0  399092 122236  80824 S  11.1 12.9   1:11.22 chromium-browse
+  817 pi        20   0  140612  14656  10908 S   5.6  1.6   0:39.43 lxpanel
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:52 up  4:01,  2 users,  load average: 1.34, 0.84, 0.63
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33400 free,   661364 used,   250756 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   210032 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  425284 374088  13832 R 100.0 39.6   1:59.54 python
+27340 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 176728 100604 S  11.1 18.7   2:11.74 chromium-browse
+26728 pi        20   0  399092 122484  80824 S   5.6 13.0   1:11.33 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:54 up  4:01,  2 users,  load average: 1.34, 0.84, 0.63
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37064 free,   664236 used,   244220 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   207160 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 377592  13832 R 100.0 39.9   2:00.76 python
+27344 root      20   0    8100   3052   2620 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 176568 100444 S  11.1 18.7   2:11.89 chromium-browse
+26728 pi        20   0  399092 121980  80824 S  11.1 12.9   1:11.45 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:55 up  4:01,  2 users,  load average: 1.39, 0.86, 0.64
+Tasks: 175 total,   5 running, 170 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33508 free,   667788 used,   244224 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   203608 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 381288  13832 R 100.0 40.3   2:01.99 python
+23949 pi        20   0   45708  11452   9956 R  16.7  1.2   1:02.30 lxtask
+27350 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 176568 100444 R  11.1 18.7   2:12.03 chromium-browse
+26728 pi        20   0  399092 121980  80824 S  11.1 12.9   1:11.54 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.18 ksoftirqd/0
+top - 09:56:56 up  4:01,  2 users,  load average: 1.39, 0.86, 0.64
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35748 free,   671896 used,   237876 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   199500 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 384720  13832 R 105.9 40.7   2:03.24 python
+27354 root      20   0    8100   3212   2780 R  17.6  0.3   0:00.06 top
+25187 pi        20   0  592476 175736  99612 S  11.8 18.6   2:12.18 chromium-browse
+26728 pi        20   0  399092 122232  80824 S   5.9 12.9   1:11.63 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:56:57 up  4:01,  2 users,  load average: 1.39, 0.86, 0.64
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32128 free,   675508 used,   237884 buff/cache
+KiB Swap:   102396 total,    40192 free,    62204 used.   195888 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 388416  13832 R  94.4 41.1   2:04.46 python
+27358 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 175736  99612 S  11.1 18.6   2:12.31 chromium-browse
+  461 root      20   0  188372  35684  12368 S   5.6  3.8   1:15.53 Xorg
+26728 pi        20   0  399092 122232  80824 S   5.6 12.9   1:11.72 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:56:59 up  4:01,  2 users,  load average: 1.39, 0.86, 0.64
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35520 free,   678316 used,   231684 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   193092 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 391848  13832 R  89.5 41.4   2:05.70 python
+27362 root      20   0    8100   3156   2724 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  592476 174948  98824 S  10.5 18.5   2:12.45 chromium-browse
+26728 pi        20   0  399092 122524  80812 S  10.5 13.0   1:11.82 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:00 up  4:01,  2 users,  load average: 1.44, 0.88, 0.65
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31408 free,   682456 used,   231656 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   188940 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 395544  13832 R 100.0 41.8   2:06.95 python
+27366 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 174948  98824 S  11.1 18.5   2:12.59 chromium-browse
+26728 pi        20   0  399092 122656  80812 S   5.6 13.0   1:11.91 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:01 up  4:02,  2 users,  load average: 1.44, 0.88, 0.65
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35848 free,   686832 used,   222840 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   184576 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 399240  13832 R  85.7 42.2   2:08.21 python
+25187 pi        20   0  592476 173628  97504 S   9.5 18.4   2:12.74 chromium-browse
+26728 pi        20   0  399092 119136  77768 S   9.5 12.6   1:12.02 chromium-browse
+27370 root      20   0    8100   3152   2720 R   9.5  0.3   0:00.06 top
+   40 root      20   0       0      0      0 S   4.8  0.0   0:01.97 kswapd0
+  461 root      20   0  188372  35684  12368 S   4.8  3.8   1:15.67 Xorg
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:57:02 up  4:02,  2 users,  load average: 1.44, 0.88, 0.65
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32824 free,   689840 used,   222856 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   181568 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 402672  13832 R 100.0 42.6   2:09.46 python
+27374 root      20   0    8100   3160   2728 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 173628  97504 S  11.1 18.4   2:12.88 chromium-browse
+26728 pi        20   0  399092 119284  77768 R   5.6 12.6   1:12.11 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:04 up  4:02,  2 users,  load average: 1.44, 0.88, 0.65
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34848 free,   693524 used,   217148 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   177896 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 406324  13788 R 100.0 43.0   2:10.70 python
+27378 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  399092 119416  77768 S  11.1 12.6   1:12.22 chromium-browse
+25187 pi        20   0  592476 173628  97504 S   5.6 18.4   2:13.02 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:05 up  4:02,  2 users,  load average: 1.41, 0.88, 0.65
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.4 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31468 free,   696900 used,   217152 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   174520 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 410020  13788 R  94.7 43.4   2:11.95 python
+27382 root      20   0    8100   3164   2732 R  15.8  0.3   0:00.06 top
+23949 pi        20   0   45708  11448   9952 R  10.5  1.2   1:02.69 lxtask
+25187 pi        20   0  592476 173628  97504 S  10.5 18.4   2:13.16 chromium-browse
+26728 pi        20   0  399092 119416  77768 S   5.3 12.6   1:12.31 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:06 up  4:02,  2 users,  load average: 1.41, 0.88, 0.65
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33204 free,   700516 used,   211800 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   170896 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  466748 413364  13700 R  94.4 43.7   2:13.19 python
+27386 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 173140  97016 S  11.1 18.3   2:13.31 chromium-browse
+    7 root      20   0       0      0      0 S   5.6  0.0   0:03.03 rcu_sched
+26728 pi        20   0  399092 119676  77768 R   5.6 12.7   1:12.41 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:07 up  4:02,  2 users,  load average: 1.41, 0.88, 0.65
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35032 free,   703736 used,   206752 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   167656 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 416052  12692 R 100.0 44.0   2:14.42 python
+25187 pi        20   0  592476 172960  96836 S  16.7 18.3   2:13.46 chromium-browse
+27390 root      20   0    8100   3204   2772 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  399092 119808  77768 S   5.6 12.7   1:12.51 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:09 up  4:02,  2 users,  load average: 1.41, 0.88, 0.65
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32156 free,   706608 used,   206756 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   164784 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 419484  12692 R 100.0 44.4   2:15.67 python
+27394 root      20   0    8100   3112   2680 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 172960  96836 S  11.1 18.3   2:13.60 chromium-browse
+26728 pi        20   0  399604 119308  77768 S  11.1 12.6   1:12.62 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:10 up  4:02,  2 users,  load average: 1.77, 0.97, 0.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33520 free,   710392 used,   201608 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   161000 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 420184   9696 R  94.4 44.4   2:16.91 python
+27398 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 172428  96304 S  11.1 18.2   2:13.74 chromium-browse
+26728 pi        20   0  399604 119344  77680 S   5.6 12.6   1:12.72 chromium-browse
+    1 root      20   0   27124   2772   2184 S   0.0  0.3   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:11 up  4:02,  2 users,  load average: 1.77, 0.97, 0.68
+Tasks: 175 total,   3 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35536 free,   714436 used,   195548 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   156960 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 421316   7132 R  94.7 44.6   2:18.20 python
+23949 pi        20   0   45708   9224   7728 S  10.5  1.0   1:03.06 lxtask
+25187 pi        20   0  592476 171472  95348 R  10.5 18.1   2:13.89 chromium-browse
+26728 pi        20   0  399604 118996  77144 S  10.5 12.6   1:12.83 chromium-browse
+27402 root      20   0    8100   3064   2632 R  10.5  0.3   0:00.06 top
+   40 root      20   0       0      0      0 S   5.3  0.0   0:02.03 kswapd0
+  461 root      20   0  188372  34188  10872 S   5.3  3.6   1:16.04 Xorg
+    1 root      20   0   27124   2304   1716 S   0.0  0.2   0:03.64 systemd
+top - 09:57:12 up  4:02,  2 users,  load average: 1.77, 0.97, 0.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32552 free,   717416 used,   195552 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   153980 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 424748   7132 R 100.0 44.9   2:19.43 python
+27406 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 171472  95348 S  11.1 18.1   2:14.03 chromium-browse
+26728 pi        20   0  399604 119136  77144 S   5.6 12.6   1:12.92 chromium-browse
+    1 root      20   0   27124   2304   1716 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:14 up  4:02,  2 users,  load average: 1.77, 0.97, 0.68
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    38528 free,   721180 used,   185812 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   150288 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 427756   6444 R 100.0 45.2   2:20.66 python
+27410 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 169732  93608 S  11.1 18.0   2:14.17 chromium-browse
+26728 pi        20   0  399604 119032  76968 S  11.1 12.6   1:13.03 chromium-browse
+  461 root      20   0  188372  33948  10632 S   5.6  3.6   1:16.13 Xorg
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:15 up  4:02,  2 users,  load average: 1.71, 0.97, 0.68
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34868 free,   724832 used,   185820 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   146636 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 431188   6444 R  94.4 45.6   2:21.88 python
+26728 pi        20   0  399604 119244  76968 S  22.2 12.6   1:13.16 chromium-browse
+27414 root      20   0    8100   3204   2772 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 169732  93608 S   5.6 18.0   2:14.31 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:16 up  4:02,  2 users,  load average: 1.71, 0.97, 0.68
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31592 free,   728108 used,   185820 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   143360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 434884   6444 R 105.6 46.0   2:23.13 python
+27418 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 169732  93608 S  11.1 18.0   2:14.46 chromium-browse
+26728 pi        20   0  399604 118544  76968 S  11.1 12.5   1:13.27 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:17 up  4:02,  2 users,  load average: 1.71, 0.97, 0.68
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37364 free,   731700 used,   176456 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   139868 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 437988   6116 R  94.4 46.3   2:24.36 python
+27422 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 163124  87000 S  11.1 17.3   2:14.61 chromium-browse
+  461 root      20   0  188372  33796  10480 S   5.6  3.6   1:16.27 Xorg
+26728 pi        20   0  399604 118460  76580 S   5.6 12.5   1:13.36 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:19 up  4:02,  2 users,  load average: 1.71, 0.97, 0.68
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33788 free,   735304 used,   176428 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   136280 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 441684   6116 R  94.7 46.7   2:25.64 python
+27426 root      20   0    8100   3136   2704 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  592476 163124  87000 S  10.5 17.3   2:14.76 chromium-browse
+26728 pi        20   0  399604 118524  76580 S   5.3 12.5   1:13.49 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:20 up  4:02,  2 users,  load average: 1.81, 1.00, 0.69
+Tasks: 174 total,   2 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32672 free,   740764 used,   172084 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   130820 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 445332   6068 R 100.0 47.1   2:26.84 python
+27433 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 159116  82992 S  11.1 16.8   2:14.91 chromium-browse
+26728 pi        20   0  399604 117324  75188 S  11.1 12.4   1:13.61 chromium-browse
+  817 pi        20   0  140612   9544   5796 S   5.6  1.0   0:39.47 lxpanel
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:21 up  4:02,  2 users,  load average: 1.81, 1.00, 0.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37088 free,   743980 used,   164452 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   127652 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 448672   5976 R 100.0 47.5   2:28.09 python
+23949 pi        20   0   45708   7016   5520 S  31.6  0.7   1:03.54 lxtask
+  461 root      20   0  188372  33732  10416 S  15.8  3.6   1:16.41 Xorg
+27438 root      20   0    8100   3164   2732 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  592476 154724  78600 S  10.5 16.4   2:15.06 chromium-browse
+26728 pi        20   0  399604 116680  74260 S   5.3 12.3   1:13.72 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:57:22 up  4:02,  2 users,  load average: 1.81, 1.00, 0.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33128 free,   747940 used,   164452 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   123692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  513388 452368   5976 R 100.0 47.8   2:29.32 python
+27442 root      20   0    8100   3184   2752 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 154724  78600 S  11.1 16.4   2:15.20 chromium-browse
+26728 pi        20   0  399604 116716  74260 S  11.1 12.3   1:13.82 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:24 up  4:02,  2 users,  load average: 1.81, 1.00, 0.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34632 free,   749900 used,   160988 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   121792 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 455800   5976 R  94.4 48.2   2:30.53 python
+27446 root      20   0    8100   3096   2664 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 147428  71304 S  11.1 15.6   2:15.35 chromium-browse
+26728 pi        20   0  399604 112356  70360 S  11.1 11.9   1:13.93 chromium-browse
+  424 root      20   0  932960  10272   3448 S   5.6  1.1   1:11.53 dockerd
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:25 up  4:02,  2 users,  load average: 1.75, 1.00, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    30996 free,   753496 used,   161028 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   118196 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 459232   5976 R 100.0 48.6   2:31.76 python
+27450 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 147428  71304 S  11.1 15.6   2:15.49 chromium-browse
+  461 root      20   0  188372  33732  10416 S   5.6  3.6   1:16.53 Xorg
+26728 pi        20   0  399604 112524  70360 S   5.6 11.9   1:14.02 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:26 up  4:02,  2 users,  load average: 1.75, 1.00, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34360 free,   757528 used,   153632 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   114164 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 462860   5908 R 100.0 49.0   2:33.01 python
+27454 root      20   0    8100   3148   2716 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 140940  64816 S  11.1 14.9   2:15.63 chromium-browse
+  502 root      20   0  901396   4448    908 S   5.6  0.5   0:59.14 docker-containe
+26728 pi        20   0  399604 108460  66296 S   5.6 11.5   1:14.12 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:27 up  4:02,  2 users,  load average: 1.75, 1.00, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    38196 free,   761084 used,   146240 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   110656 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 466556   5908 R  94.4 49.3   2:34.25 python
+27458 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 133804  57680 S  11.1 14.2   2:15.78 chromium-browse
+26728 pi        20   0  399604 108016  65576 S   5.6 11.4   1:14.22 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:29 up  4:02,  2 users,  load average: 1.75, 1.00, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34512 free,   764944 used,   146064 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   106896 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 469988   5908 R 100.0 49.7   2:35.50 python
+27462 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 133804  57680 S  11.1 14.2   2:15.92 chromium-browse
+26728 pi        20   0  399604 108016  65576 S   5.6 11.4   1:14.32 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:30 up  4:02,  2 users,  load average: 1.77, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    30924 free,   768532 used,   146064 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.   103308 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 473684   5908 R 100.0 50.1   2:36.75 python
+27466 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 133804  57680 S  11.1 14.2   2:16.07 chromium-browse
+26728 pi        20   0  399604 108164  65576 S  11.1 11.4   1:14.43 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:31 up  4:02,  2 users,  load average: 1.77, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34188 free,   772036 used,   139296 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    99820 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 477328   5908 R  94.4 50.5   2:37.99 python
+23949 pi        20   0   45708   7012   5516 S  44.4  0.7   1:03.94 lxtask
+27470 root      20   0    8100   3188   2756 R  16.7  0.3   0:00.06 top
+  461 root      20   0  188372  33728  10412 S  11.1  3.6   1:16.77 Xorg
+25187 pi        20   0  592476 127308  51184 S  11.1 13.5   2:16.21 chromium-browse
+26728 pi        20   0  400116 106928  64704 S  11.1 11.3   1:14.53 chromium-browse
+   19 root      20   0       0      0      0 S   5.6  0.0   0:00.10 ksoftirqd/2
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+top - 09:57:32 up  4:02,  2 users,  load average: 1.77, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36156 free,   775276 used,   134088 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    96580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 480752   5908 R 100.0 50.8   2:39.23 python
+27474 root      20   0    8100   3116   2684 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 123168  47036 S  11.1 13.0   2:16.36 chromium-browse
+    7 root      20   0       0      0      0 S   5.6  0.0   0:03.05 rcu_sched
+  236 root      20   0       0      0      0 S   5.6  0.0   0:00.69 brcmf_wdog/mmc1
+26728 pi        20   0  400116 103240  60900 S   5.6 10.9   1:14.63 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:57:33 up  4:02,  2 users,  load average: 1.77, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32328 free,   779104 used,   134088 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    92752 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 484448   5908 R  88.9 51.2   2:40.44 python
+27478 root      20   0    8100   3112   2680 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 123168  47036 S  11.1 13.0   2:16.50 chromium-browse
+  424 root      20   0  932960  10272   3448 S   5.6  1.1   1:11.56 dockerd
+  461 root      20   0  188372  33708  10392 S   5.6  3.6   1:16.86 Xorg
+26728 pi        20   0  400116 103388  60900 S   5.6 10.9   1:14.74 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:57:35 up  4:02,  2 users,  load average: 1.71, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    40272 free,   782960 used,   122288 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    88784 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 487880   5908 R  94.7 51.6   2:41.67 python
+27482 root      20   0    8100   3188   2756 R  15.8  0.3   0:00.06 top
+25187 pi        20   0  592476 116128  39996 S  10.5 12.3   2:16.64 chromium-browse
+   40 root      20   0       0      0      0 S   5.3  0.0   0:02.22 kswapd0
+26728 pi        20   0  400116  92488  49852 S   5.3  9.8   1:14.83 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:36 up  4:02,  2 users,  load average: 1.71, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    36724 free,   786672 used,   122124 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    85276 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 491312   5908 R 100.0 52.0   2:42.90 python
+27486 root      20   0    8100   3212   2780 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 116128  39996 S   5.6 12.3   2:16.78 chromium-browse
+26728 pi        20   0  400116  92488  49852 S   5.6  9.8   1:14.93 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:37 up  4:02,  2 users,  load average: 1.71, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33128 free,   790256 used,   122136 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    81692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 495008   5908 R 100.0 52.4   2:44.14 python
+27490 root      20   0    8100   3220   2788 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 116128  39996 S  11.1 12.3   2:16.93 chromium-browse
+  461 root      20   0  188372  33708  10392 S   5.6  3.6   1:17.00 Xorg
+26728 pi        20   0  400116  92732  49852 S   5.6  9.8   1:15.03 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:38 up  4:02,  2 users,  load average: 1.71, 1.02, 0.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35404 free,   793524 used,   116592 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    78424 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 498636   5908 R  94.4 52.7   2:45.39 python
+27494 root      20   0    8100   3096   2664 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  592476 112700  36568 S  11.1 11.9   2:17.08 chromium-browse
+  502 root      20   0  901396   4448    908 S   5.6  0.5   0:59.17 docker-containe
+26728 pi        20   0  400116  87320  44880 S   5.6  9.2   1:15.14 chromium-browse
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:40 up  4:02,  2 users,  load average: 1.73, 1.04, 0.71
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37300 free,   793560 used,   114660 buff/cache
+KiB Swap:   102396 total,    40196 free,    62200 used.    78296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 502256   5908 R 100.0 53.1   2:46.67 python
+25187 pi        20   0  608348 113020  36820 S  16.7 12.0   2:17.26 chromium-browse
+27503 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  399604  80880  41084 D  11.1  8.6   1:15.25 chromium-browse
+   93 root      20   0       0      0      0 S   5.6  0.0   0:03.66 mmcqd/0
+    1 root      20   0   27124   1724   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:41 up  4:02,  2 users,  load average: 1.73, 1.04, 0.71
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    38284 free,   792492 used,   114744 buff/cache
+KiB Swap:   102396 total,    37892 free,    64504 used.    78396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  565864 505684   5640 R 100.0 53.5   2:47.91 python
+23949 pi        20   0   45708   6980   5484 R  33.3  0.7   1:04.31 lxtask
+25187 pi        20   0  609372 117644  41436 S  22.2 12.4   2:17.39 chromium-browse
+26728 pi        20   0  400628  75664  39252 S  16.7  8.0   1:15.35 chromium-browse
+27509 root      20   0    8100   3120   2688 R  16.7  0.3   0:00.06 top
+    1 root      20   0   27124   1596   1136 S   0.0  0.2   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:57:42 up  4:02,  2 users,  load average: 1.73, 1.04, 0.71
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37524 free,   795136 used,   112860 buff/cache
+KiB Swap:   102396 total,    21980 free,    80416 used.    75776 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 508648   5008 R 105.9 53.8   2:49.17 python
+   40 root      20   0       0      0      0 S  29.4  0.0   0:02.42 kswapd0
+27513 root      20   0    8100   3080   2648 R  17.6  0.3   0:00.06 top
+    1 root      20   0   27124   1416   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.05 rcu_sched
+top - 09:57:44 up  4:02,  2 users,  load average: 1.73, 1.04, 0.71
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    31912 free,   800492 used,   113116 buff/cache
+KiB Swap:   102396 total,    21984 free,    80412 used.    70408 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 513928   5008 R 100.0 54.4   2:50.98 python
+27517 root      20   0    8100   3192   2760 R  16.7  0.3   0:00.06 top
+    1 root      20   0   27124   1416   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.05 rcu_sched
+    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcu_bh
+top - 09:57:45 up  4:02,  2 users,  load average: 2.07, 1.12, 0.74
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    37864 free,   796796 used,   110860 buff/cache
+KiB Swap:   102396 total,    21984 free,    80412 used.    74116 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 517360   5008 R  94.4 54.7   2:52.20 python
+27521 root      20   0    8100   3164   2732 R  16.7  0.3   0:00.06 top
+    1 root      20   0   27124   1416   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.06 rcu_sched
+    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcu_bh
+top - 09:57:46 up  4:02,  2 users,  load average: 2.07, 1.12, 0.74
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34624 free,   799616 used,   111280 buff/cache
+KiB Swap:   102396 total,    21996 free,    80400 used.    71292 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 520792   5008 R  94.4 55.1   2:53.43 python
+27525 root      20   0    8100   3224   2792 R  16.7  0.3   0:00.06 top
+    1 root      20   0   27124   1416   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.06 rcu_sched
+    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcu_bh
+top - 09:57:48 up  4:02,  2 users,  load average: 2.07, 1.12, 0.74
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32640 free,   795992 used,   116888 buff/cache
+KiB Swap:   102396 total,    11076 free,    91320 used.    72004 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 522192   2712 R  94.4 55.2   2:54.69 python
+   40 root      20   0       0      0      0 D  16.7  0.0   0:02.50 kswapd0
+27529 root      20   0    8100   3064   2632 R  16.7  0.3   0:00.06 top
+   93 root      20   0       0      0      0 S   5.6  0.0   0:03.75 mmcqd/0
+    1 root      20   0   27124   1372   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:57:50 up  4:02,  2 users,  load average: 2.71, 1.27, 0.79
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    33044 free,   793844 used,   118632 buff/cache
+KiB Swap:   102396 total,     7108 free,    95288 used.    73332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 529316   2708 R  94.7 56.0   2:57.11 python
+27533 root      20   0    8100   3136   2704 R  15.8  0.3   0:00.06 top
+    1 root      20   0   27124   1372   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.06 rcu_sched
+    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 rcu_bh
+top - 09:57:54 up  4:02,  2 users,  load average: 2.71, 1.27, 0.79
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.5 us,  0.7 sy,  0.0 ni, 96.4 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    26256 free,   799752 used,   119512 buff/cache
+KiB Swap:   102396 total,     1800 free,   100596 used.    67392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 539660   1964 R  94.4 57.1   3:00.95 python
+27537 root      20   0    8100   3144   2712 R  16.7  0.3   0:00.06 top
+26728 pi        20   0  398880  79760  46452 S   5.6  8.4   1:15.96 chromium-browse
+    1 root      20   0   27124   1372   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.06 rcu_sched
+top - 09:57:58 up  4:02,  2 users,  load average: 3.13, 1.38, 0.83
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34588 free,   804056 used,   106876 buff/cache
+KiB Swap:   102396 total,       56 free,   102340 used.    69448 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 550120   1940 R 100.0 58.2   3:04.58 python
+27541 root      20   0    8100   3144   2712 R  16.7  0.3   0:00.06 top
+   93 root      20   0       0      0      0 S   5.6  0.0   0:03.81 mmcqd/0
+    1 root      20   0   27124   1372   1136 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.06 rcu_sched
+top - 09:57:59 up  4:02,  2 users,  load average: 3.12, 1.40, 0.84
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    34540 free,   807852 used,   103128 buff/cache
+KiB Swap:   102396 total,       52 free,   102344 used.    69060 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 554488   1896 R  94.7 58.6   3:06.11 python
+23949 pi        20   0   45708   5832   4444 S  36.8  0.6   1:05.19 lxtask
+  461 root      20   0  188372  24808   9872 S  15.8  2.6   1:17.56 Xorg
+27545 root      20   0    8100   3180   2748 R  15.8  0.3   0:00.07 top
+25187 pi        20   0  603996 110496  45868 S  10.5 11.7   2:17.86 chromium-browse
+26728 pi        20   0  395764  76076  42612 S   5.3  8.0   1:16.10 chromium-browse
+    1 root      20   0   27124   1360   1124 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+top - 09:58:00 up  4:03,  2 users,  load average: 3.12, 1.40, 0.84
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    38840 free,   810992 used,    95688 buff/cache
+KiB Swap:   102396 total,        0 free,   102396 used.    66256 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 557912   1888 R 100.0 59.0   3:07.36 python
+25187 pi        20   0  603996 109036  44344 S  11.1 11.5   2:18.10 chromium-browse
+27549 root      20   0    8100   3128   2696 R  11.1  0.3   0:00.06 top
+   37 root      20   0       0      0      0 S   5.6  0.0   0:01.92 kworker/0:1
+   40 root      20   0       0      0      0 S   5.6  0.0   0:02.73 kswapd0
+   93 root      20   0       0      0      0 S   5.6  0.0   0:03.86 mmcqd/0
+  817 pi        20   0  140612   6644   4420 S   5.6  0.7   0:39.55 lxpanel
+    1 root      20   0   27124   1360   1124 S   0.0  0.1   0:03.64 systemd
+top - 09:58:02 up  4:03,  2 users,  load average: 3.12, 1.40, 0.84
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    32196 free,   815252 used,    98072 buff/cache
+KiB Swap:   102396 total,       12 free,   102384 used.    61912 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  624896 561608   1888 R 100.0 59.4   3:08.62 python
+27553 root      20   0    8100   3132   2700 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  603996 109060  44364 S  11.1 11.5   2:18.26 chromium-browse
+26728 pi        20   0  395764  72352  38684 S   5.6  7.7   1:16.18 chromium-browse
+    1 root      20   0   27124   1360   1124 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:58:03 up  4:03,  2 users,  load average: 3.12, 1.40, 0.84
+Tasks: 176 total,   4 running, 172 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    30384 free,   819708 used,    95428 buff/cache
+KiB Swap:   102396 total,        8 free,   102388 used.    57576 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  691308 565480   1888 R 105.6 59.8   3:09.90 python
+23949 pi        20   0   45708   5824   4436 R  44.4  0.6   1:05.36 lxtask
+25187 pi        20   0  603996 101824  37128 S  16.7 10.8   2:18.42 chromium-browse
+27560 root      20   0    8100   3128   2696 R  16.7  0.3   0:00.06 top
+   40 root      20   0       0      0      0 R   5.6  0.0   0:02.78 kswapd0
+  422 vnstat    20   0    2380   1016    936 S   5.6  0.1   0:02.04 vnstatd
+  461 root      20   0  190788  24572   9636 S   5.6  2.6   1:17.69 Xorg
+  502 root      20   0  901396   2688    872 S   5.6  0.3   0:59.24 docker-containe
+top - 09:58:04 up  4:03,  2 users,  load average: 3.03, 1.41, 0.85
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35220 free,   823548 used,    86752 buff/cache
+KiB Swap:   102396 total,       12 free,   102384 used.    53740 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  691308 568912   1888 R 100.0 60.2   3:11.17 python
+27564 root      20   0    8100   3080   2648 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  603996 101824  37128 R  11.1 10.8   2:18.56 chromium-browse
+  461 root      20   0  188372  24572   9636 S   5.6  2.6   1:17.74 Xorg
+26728 pi        20   0  395764  65724  31720 S   5.6  7.0   1:16.23 chromium-browse
+    1 root      20   0   27124   1072    836 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+top - 09:58:05 up  4:03,  2 users,  load average: 3.03, 1.41, 0.85
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    35716 free,   826760 used,    83044 buff/cache
+KiB Swap:   102396 total,       12 free,   102384 used.    50464 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  691308 572600   1888 R 100.0 60.6   3:12.40 python
+25187 pi        20   0  603996  99888  35180 S  16.7 10.6   2:18.74 chromium-browse
+27568 root      20   0    8100   3152   2720 R  16.7  0.3   0:00.06 top
+    1 root      20   0   27124   1072    836 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+    7 root      20   0       0      0      0 S   0.0  0.0   0:03.07 rcu_sched
+top - 09:58:07 up  4:03,  2 users,  load average: 3.03, 1.41, 0.85
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    40440 free,   830856 used,    74224 buff/cache
+KiB Swap:   102396 total,      144 free,   102252 used.    46340 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  691308 575964   1888 R  88.9 60.9   3:13.59 python
+   40 root      20   0       0      0      0 S  33.3  0.0   0:02.90 kswapd0
+27572 root      20   0    8100   3168   2736 R  16.7  0.3   0:00.06 top
+25187 pi        20   0  605020  96744  32064 S  11.1 10.2   2:18.89 chromium-browse
+   19 root      20   0       0      0      0 S   5.6  0.0   0:00.11 ksoftirqd/2
+  502 root      20   0  901396   3588   1260 S   5.6  0.4   0:59.28 docker-containe
+26728 pi        20   0  395764  60316  25996 S   5.6  6.4   1:16.30 chromium-browse
+    1 root      20   0   27124   1072    836 S   0.0  0.1   0:03.64 systemd
+top - 09:58:10 up  4:03,  2 users,  load average: 3.35, 1.51, 0.88
+Tasks: 176 total,   3 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    29920 free,   841104 used,    74496 buff/cache
+KiB Swap:   102396 total,        4 free,   102392 used.    35784 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  691308 586448   1888 R  85.0 62.0   3:17.23 python
+25187 pi        20   0  605536  96192  31420 S  15.0 10.2   2:19.01 chromium-browse
+27576 root      20   0    8100   3116   2684 R  10.0  0.3   0:00.06 top
+   93 root      20   0       0      0      0 R   5.0  0.0   0:03.94 mmcqd/0
+    1 root      20   0   27124   1072    836 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
+    3 root      20   0       0      0      0 S   0.0  0.0   0:00.19 ksoftirqd/0
+    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:0H
+top - 09:58:14 up  4:03,  2 users,  load average: 3.35, 1.51, 0.88
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  0.7 sy,  0.0 ni, 96.3 id,  0.4 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem :   945520 total,    28284 free,   850772 used,    66464 buff/cache
+KiB Swap:   102396 total,        0 free,   102396 used.    27508 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+26916 root      20   0  691308 595664   1188 R  47.4 63.0   3:20.70 python
+23949 pi        20   0   45708   7008   5620 D   7.9  0.7   1:05.81 lxtask
+25187 pi        20   0  605536  86068  21132 S   7.9  9.1   2:19.21 chromium-browse
+27580 root      20   0    8100   2932   2500 R   7.9  0.3   0:00.08 top
+   93 root      20   0       0      0      0 S   2.6  0.0   0:04.02 mmcqd/0
+26728 pi        20   0  396276  53508  19716 D   2.6  5.7   1:16.42 chromium-browse
+    1 root      20   0   27124    912    676 S   0.0  0.1   0:03.64 systemd
+    2 root      20   0       0      0      0 S   0.0  0.0   0:00.05 kthreadd
